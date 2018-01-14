@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Emagedev_CacheControl>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Page />
+            </depends>
+        </Emagedev_CacheControl>
+    </modules>
+</config>

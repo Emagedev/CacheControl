@@ -1,0 +1,25 @@
+{
+  "name": "emagedev/cachecontrol",
+  "description": "Add Hashes To Your Magento™ 1.9 Skin CSS, JS, And Merged Files To Prevent Browser Caching ",
+  "type": "magento-module",
+  "license": "BSD-3-Clause",
+  "version": "0.1.0",
+  "authors": [
+    {
+      "name": "Dmitry Burlakov",
+      "email": "dantaeusb@icloud.com"
+    }
+  ],
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  },
+  "require-dev": {
+    "ecomdev/ecomdev_phpunit": "*"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/Emagedev/CacheControl.git"
+    }
+  ]
+}
