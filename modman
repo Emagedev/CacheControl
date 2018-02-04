@@ -1,3 +1,3 @@
 app/code/community/Emagedev/CacheControl app/code/community/Emagedev/CacheControl
-app/etc/modules/CacheControl.xml app/etc/modules/CacheControl.xml
+app/etc/modules/Emagedev_CacheControl.xml app/etc/modules/Emagedev_CacheControl.xml
 LICENSE app/code/community/Emagedev/CacheControl/LICENSE
