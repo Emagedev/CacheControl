@@ -3,7 +3,7 @@
   "description": "Add Hashes To Your Magento™ 1.9 Skin CSS, JS, And Merged Files To Prevent Browser Caching ",
   "type": "magento-module",
   "license": "BSD-3-Clause",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "authors": [
     {
       "name": "Dmitry Burlakov",
