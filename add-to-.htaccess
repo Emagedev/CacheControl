@@ -1,0 +1,2 @@
+RewriteRule (.*)\.([\da-f]{8})\.(css)$ $1.$3 [L,NC]
+RewriteRule (.*)\.([\da-f]{8})\.(js)$ $1.$3 [L,NC]
