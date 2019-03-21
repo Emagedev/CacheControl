@@ -79,7 +79,7 @@ class Emagedev_CacheControl_Block_Html_Head extends Mage_Page_Block_Html_Head
      */
     protected function _getCacheName($name, $type = 'tag')
     {
-        return implode('_', array('head_tag', $type, $name));
+        return implode('_', array('head_tag', Mage::app()->getStore()->getId(), $type, $name));
     }
 
     protected function _isBlockCacheEnabled()
